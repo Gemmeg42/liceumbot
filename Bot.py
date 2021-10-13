@@ -6,7 +6,7 @@ from telegram import ReplyKeyboardMarkup
 import random
 import sqlite3
 
-TOKEN = '1778541116:AAGb-rG-9D-QVa7NrlPVlDP0XqZQQO4yZBo'
+TOKEN = 'Засекречено от Дани'
 updater = Updater(token=TOKEN)
 dispatcher = updater.dispatcher
 mod = random.choice(['quiz2.csv', 'quiz1.csv'])
